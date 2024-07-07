@@ -25,6 +25,7 @@ const Navigation = () => {
 
       return () => clearTimeout(timeout);
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isRouting]);
   return (
     <div

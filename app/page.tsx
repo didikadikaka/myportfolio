@@ -21,7 +21,7 @@ export default function Home() {
           <p className="text-gray-200 hidden md:block">
           After graduating and working with a degree in Accounting, I decided to pursue my passion for programming. I enrolled in a coding boot camp and learned full-stack web development. My favorite part of programming is the problem-solving aspect. I love the feeling of finally figuring out a solution to a problem. My core stack is Next.js, Express, and React. I am also familiar with TypeScript. I am always looking to learn new technologies. I am currently looking for a hybrid work position as a web developer.
 
-I enjoy playing video games and watching movies when I'm not coding. I also enjoy learning new things.
+I enjoy playing video games and watching movies when I am not coding. I also enjoy learning new things.
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link
